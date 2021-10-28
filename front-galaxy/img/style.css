@@ -1,0 +1,73 @@
+* {
+
+  box-sizing: border-box;
+   
+   
+}
+
+body {
+  background-color:#F5F5F5; /*whiteSmoke background*/
+  margin: 10px;
+}
+
+h1 {
+position: relative;
+margin-top: 15px;
+margin-bottom: 35px;
+text-align: center; 
+font-size: 230%;
+color: black bold; 
+ /*rosybrown color background*/
+font-family: Verdana, Helvetica, serif, Arial, fantasy, sans-serif; 
+}
+
+
+.box {
+
+  overflow: auto;
+  position: relative;
+  margin-right: 30px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  font-family: Helvetica;
+  color: black;
+  padding: 21px;
+  text-align: justify;
+  font-size: 25px;
+  width: 80%; 
+  
+
+}
+
+span{
+  position: absolute;	
+  top:0;
+  width: 60%;
+  font-size: 35px;
+  text-align: left;
+  font-weight: bold;
+  opacity: .7;
+
+}
+
+#title1 {
+background-color:white
+
+}
+
+#title2 {
+background-color:white
+
+}
+
+#title3{
+
+background-color:white
+}
+
+.row {
+  width: 100%;
+
+}
+
+
